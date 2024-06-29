@@ -64,6 +64,34 @@ display:flex;
     display:flex;
     gap:20px;
     justify-content: center;
+    margin-top:20px;
+}
+.border{
+    background-color:  rgb(167, 181, 200);#000;
+    width:400px;
+    margin-top:20px;
+    border-radius: 25px;
+    align-items: center;
+    
+}
+.save{
+    color:blue;
+    text-align: center;
+}
+.galaxy{
+    text-align: center;
+}
+.x{
+    background-color: grey;
+}
+.from{
+    text-align: center;
+}
+.zurag{
+    width:200px;
+    height:200px;
+    align-items: center;
+    text-align: center;
 }
 .text{
     display:flex;
