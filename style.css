@@ -11,8 +11,12 @@ align-items: center;
     gap:10px;
     margin-left:20px;
     color:black;
-    flex-direction: row;
-          
+    flex-direction: row;       
+}
+.kk{
+    display: flex;
+    flex-direction:start;
+    gap:20px;
 }
 .heading2{
 display:flex;
@@ -67,24 +71,74 @@ display:flex;
     margin-top:20px;
 }
 .border{
-    background-color:  rgb(167, 181, 200);#000;
+    background-color:  rgb(167, 181, 200);
     width:400px;
     margin-top:20px;
     border-radius: 25px;
-    align-items: center;
-    
+    text-align: center;
+}
+.c{
+    background-color:  rgb(167, 181, 200);
+    width:400px;
+    margin-top:20px;
+    border-radius: 25px;
+    text-align: center;
+}
+.x{
+    background-color:  rgb(167, 181, 200);
+    width:400px;
+    margin-top:20px;
+    border-radius: 25px;
+    text-align: center;
+}
+.save1{
+    color:blue;
+    text-align: center;
+}
+.from1{
+    text-align: center;
+}
+.from2{
+    text-align: center;
 }
 .save{
     color:blue;
+    text-align: center;
+}
+.save2{
+    color:blue;
+    text-align: center;
+}
+.galaxy1{
+    text-align: center;
+}
+.galaxy2{
     text-align: center;
 }
 .galaxy{
     text-align: center;
 }
 .x{
-    background-color: grey;
+    background-color:  rgb(167, 181, 200);
+    width:300px;
+    margin-top:20px;
+    border-radius: 25px;
+    text-align: center;
 }
+
 .from{
+    text-align: center;
+}
+.zurag1{
+    width:190px;
+    height:200px;
+    align-items: center;
+    text-align: center;
+}
+.zurag2{
+    width:190px;
+    height:200px;
+    align-items: center;
     text-align: center;
 }
 .zurag{
