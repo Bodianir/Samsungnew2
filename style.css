@@ -113,6 +113,17 @@ display:flex;
 .from2 {
   text-align: center;
 }
+.football{
+ position: relative;
+  align-items: center;
+}
+.half{
+  display:block;
+  align-items:center;
+}
+.lastpic{
+  position: absolute;
+}
 
 .sustainability-section {
     position: relative;
